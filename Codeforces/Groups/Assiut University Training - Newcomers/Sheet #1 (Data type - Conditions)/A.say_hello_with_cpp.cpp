@@ -11,6 +11,7 @@ Learning (for myself):
 using namespace std;
 int main() {
     string s;
+    cout<<"enter:"<<endl;
     getline(cin, s);
     cout << "Hello, " << s << endl;
     return 0;
