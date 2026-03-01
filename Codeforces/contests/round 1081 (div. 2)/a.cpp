@@ -1,4 +1,5 @@
 //codeforces contest round 1081 (div. 2)
+// this code is wrong, isn't solved or met the required question pattern or solution.
 #include<iostream>
 #include<string>
 #include<vector>
@@ -38,5 +39,4 @@ int main(){
         }
         cout<<countScore<<endl;
     }
-// this code is wrong, isn't solved or met the required question pattern or solution.
 }
