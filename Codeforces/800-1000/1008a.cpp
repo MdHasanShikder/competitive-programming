@@ -18,7 +18,7 @@ int main(){
         }
     for(int i=0; i<l; i++){ //we are looping till before the last index
         if(s[i]=='n') continue; //there is an exception for n;
-        //if all are consonat except 'n'
+        //if all are consonant except 'n'
         if(s[i]!='a' && s[i]!='e' && s[i]!='i' && s[i]!='o' && s[i]!='u' && s[i]!='n'){
             //if there is no vowel after consonant except 'n'
             if(s[i+1]!='a' && s[i+1]!='e' && s[i+1]!='i' && s[i+1]!='o' && s[i+1]!='u'){
