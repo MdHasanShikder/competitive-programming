@@ -1,3 +1,5 @@
+//used kadane's algorithm
+//for maximum subarray sum
 #include<iostream>
 #include<climits>
 #include<vector>
